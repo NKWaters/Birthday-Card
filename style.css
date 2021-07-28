@@ -1,0 +1,22 @@
+body
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+   background-image: url("BirthdayImage.jpg");
+    margin-top: 30px;
+	border-width:10px;
+	background-color: white; 
+	border-style: ridge;
+}
+
+#soundbutton {
+    height: 40px;
+    background-color: green;
+    color: white;
+    font-weight: bold;;
+    font-size: 20px;
+}
